@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"project2","l":"ThreadSyncProject.MathUtils"},{"p":"project2","l":"ThreadSyncProject"}];updateSearchResults();
